@@ -1,0 +1,2 @@
+# Smart-Campus-Cafe-Simulation
+A desktop based application software in Java, highly efficient in time and memory that simulates the working of campus cafes in Universities. Students can either order food items from any cafes located on campus using their student id card or from the vending machines on campus. The software handles the transactions very efficiently providing the user an elegant UI. 
